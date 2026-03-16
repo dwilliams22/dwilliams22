@@ -12,7 +12,7 @@
 
 <!-- ## 👋 About Me -->
 
-I’m a fullstack engineer with **10 years of professional experience** building modern, scalable, and user‑focused applications. I specialize in **frontend architecture and engineering**, while also bringing strong full‑stack and backend expertise.
+I’m a fullstack engineer with 10 years of professional experience building modern, scalable, and user‑focused applications. I specialize in frontend architecture and engineering, while also bringing strong full‑stack and backend expertise.
 
 I enjoy transforming complex problems into intuitive digital experiences and writing clean, maintainable code that scales.
 

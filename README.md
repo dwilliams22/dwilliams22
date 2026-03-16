@@ -61,13 +61,3 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=dwilliams22&theme=react&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p> -->
-
----
-
-## 📫 Let’s Connect
-
-<p align="left">
-  <a href="www.linkedin.com/in/deonte-williams-2225038a">
-    <img src="https://img.shields.io/badge/LinkedIn-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>

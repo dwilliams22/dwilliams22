@@ -1,16 +1,71 @@
-## Hi there 👋
+# 💠 Deonte Williams
 
-<!--
-**dwilliams22/dwilliams22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Software Engineer | Frontend Specialist
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8fd3f4,100:84fab0&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=36&fontColor=ffffff" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+I’m a fullstack engineer with **10 years of professional experience** building modern, scalable, and user‑focused applications. I specialize in **frontend architecture and engineering**, while also bringing strong full‑stack and backend expertise.
+
+I enjoy transforming complex problems into intuitive digital experiences and writing clean, maintainable code that scales.
+
+---
+
+## 🛠️ Technical Skills
+
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,js,typescript,cs,dotnet,nodejs,express,mongodb,git,github,postman&theme=light)](https://skillicons.dev) -->
+
+### Frontend Development
+
+[![My Skills](https://skillicons.dev/icons?i=react,vue,angular,tailwind,html,css&theme=light)](https://skillicons.dev)
+
+### Backend & Full‑Stack
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=light)](https://skillicons.dev)
+
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,py,cs&theme=light)](https://skillicons.dev)
+
+### Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
+
+### Testing & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=jest,git,github,sequelize,postman&theme=light)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div display="inline" align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwilliams22&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=fff" />
+  <img src="https://streak-stats.demolab.com?user=dwilliams22&theme=react&hide_border=true&background=0d1117&ring=007acc&fire=e34c25&currStreakLabel=60dbfb" />
+</div>
+
+<!-- <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dwilliams22&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwilliams22&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=dwilliams22&theme=react&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p> -->
+
+---
+
+## 📫 Let’s Connect
+
+<p align="left">
+  <a href="www.linkedin.com/in/deonte-williams-2225038a">
+    <img src="https://img.shields.io/badge/LinkedIn-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>

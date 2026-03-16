@@ -1,14 +1,16 @@
-# 💠 Deonte Williams
+<!-- # 💠 Deonte Williams -->
 
-### Senior Software Engineer | Frontend Specialist
+<!-- ### Senior Software Engineer | Frontend Specialist -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8fd3f4,100:84fab0&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=36&fontColor=ffffff" />
-</p>
+</p> -->
 
----
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=500&backgroundOpacity=0&center=false&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Fullstack+Engineer%22%2C%22font%22%3A%22Libre+Franklin%22%2C%22color%22%3A%22%2360dbfb%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1111111111111111%2C%22fontWeight%22%3A%22600%22%7D%2C%7B%22text%22%3A%22Frontend+Specialist%22%2C%22font%22%3A%22Libre+Franklin%22%2C%22color%22%3A%22%2360dbfb%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1111111111111111%2C%22fontWeight%22%3A%22600%22%7D%2C%7B%22text%22%3A%22React+Enthusiast%22%2C%22font%22%3A%22Libre+Franklin%22%2C%22color%22%3A%22%2360dbfb%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1111111111111111%2C%22fontWeight%22%3A%22600%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
-## 👋 About Me
+
+
+<!-- ## 👋 About Me -->
 
 I’m a fullstack engineer with **10 years of professional experience** building modern, scalable, and user‑focused applications. I specialize in **frontend architecture and engineering**, while also bringing strong full‑stack and backend expertise.
 
@@ -46,7 +48,7 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
 
 ## 📊 GitHub Stats
 
-<div display="inline" align="center">
+<div display="inline" align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwilliams22&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=fff" />
   <img src="https://streak-stats.demolab.com?user=dwilliams22&theme=react&hide_border=true&background=0d1117&ring=007acc&fire=e34c25&currStreakLabel=60dbfb" />
 </div>

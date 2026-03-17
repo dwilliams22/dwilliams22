@@ -20,23 +20,76 @@
 
 <!-- ## 👋 About Me -->
 
+<div align="center">
+  <p>I’m a fullstack engineer with 10 years of professional experience building modern, scalable, and user‑focused applications.</p>
+  <p>I specialize in frontend architecture and engineering, while also bringing strong full‑stack and backend expertise.</p>
+  <p>I enjoy transforming complex problems into intuitive digital experiences and writing clean, maintainable code that scales.</p>
+</div>
+
+<!--
 I’m a fullstack engineer with 10 years of professional experience building modern, scalable, and user‑focused applications. I specialize in frontend architecture and engineering, while also bringing strong full‑stack and backend expertise.
 
 I enjoy transforming complex problems into intuitive digital experiences and writing clean, maintainable code that scales.
+-->
 
----
+<br>
 
-## 🛠️ Technical Skills
+<!-- ## 🛠️ Technical Skills -->
+<h2 align="center">Technical Skills</h2>
 
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,js,typescript,cs,dotnet,nodejs,express,mongodb,git,github,postman&theme=light)](https://skillicons.dev) -->
+    
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Frontend Development</h3>
+    </td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,html,css&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Backend Frameworks</h3>
+    </td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Languages</h3>
+    </td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=js,typescript,py,cs&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Databases</h3>
+    </td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Testing & Tools</h3>
+    </td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=jest,git,github,sequelize,postman&theme=light" />
+    </td>
+  </tr>
+</table>
 
+<!--
 ### Frontend Development
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,tailwind,html,css&theme=light)](https://skillicons.dev)
 
-### Backend & Full‑Stack
+### Backend Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=light)](https://skillicons.dev)
 
@@ -51,10 +104,12 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
 ### Testing & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=jest,git,github,sequelize,postman&theme=light)](https://skillicons.dev)
+-->
 
----
+<br>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
+<h2 align="center">GitHub Stats</h2>
 
 <div display="inline" align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwilliams22&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=fff" />

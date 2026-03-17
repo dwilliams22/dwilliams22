@@ -6,7 +6,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8fd3f4,100:84fab0&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=36&fontColor=ffffff" />
 </p> -->
 
+<div align="center">
+  <a href="https://github.com/whiteSHADOW1234/TypingSVG">
+    <img src="https://typingsvg.vercel.app/api/svg?width=500&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Fullstack+Engineer%22%2C%22font%22%3A%22Libre+Franklin%22%2C%22color%22%3A%22%2360dbfb%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1111111111111111%2C%22fontWeight%22%3A%22600%22%7D%2C%7B%22text%22%3A%22Frontend+Specialist%22%2C%22font%22%3A%22Libre+Franklin%22%2C%22color%22%3A%22%2360dbfb%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1111111111111111%2C%22fontWeight%22%3A%22600%22%7D%2C%7B%22text%22%3A%22React+Enthusiast%22%2C%22font%22%3A%22Libre+Franklin%22%2C%22color%22%3A%22%2360dbfb%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1111111111111111%2C%22fontWeight%22%3A%22600%22%7D%5D" alt="Typing SVG" />
+  </a>
+</div>
+
+<!--
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=500&backgroundOpacity=0&center=false&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Fullstack+Engineer%22%2C%22font%22%3A%22Libre+Franklin%22%2C%22color%22%3A%22%2360dbfb%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1111111111111111%2C%22fontWeight%22%3A%22600%22%7D%2C%7B%22text%22%3A%22Frontend+Specialist%22%2C%22font%22%3A%22Libre+Franklin%22%2C%22color%22%3A%22%2360dbfb%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1111111111111111%2C%22fontWeight%22%3A%22600%22%7D%2C%7B%22text%22%3A%22React+Enthusiast%22%2C%22font%22%3A%22Libre+Franklin%22%2C%22color%22%3A%22%2360dbfb%22%2C%22fontSize%22%3A36%2C%22typingSpeed%22%3A0.08333333333333333%2C%22deleteSpeed%22%3A0.1111111111111111%2C%22fontWeight%22%3A%22600%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+-->
 
 
 
@@ -48,7 +56,7 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
 
 ## 📊 GitHub Stats
 
-<div display="inline" align="left">
+<div display="inline" align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwilliams22&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=fff" />
   <img src="https://streak-stats.demolab.com?user=dwilliams22&theme=react&hide_border=true&background=0d1117&ring=007acc&fire=e34c25&currStreakLabel=60dbfb" />
 </div>

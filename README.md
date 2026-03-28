@@ -79,7 +79,7 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
       <h3>Testing & Tools</h3>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=jest,git,github,sequelize,postman&theme=light" />
+        <img src="https://skillicons.dev/icons?i=jest,git,github,docker,sequelize,postman&theme=light" />
     </td>
   </tr>
 </table>

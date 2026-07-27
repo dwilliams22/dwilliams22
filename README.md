@@ -55,7 +55,7 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
       <h3>Backend Frameworks</h3>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=light" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet&theme=light" />
     </td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
 <h2 align="center">GitHub Stats</h2>
 
 <div display="inline" align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwilliams22&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=fff" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dwilliams22&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=fff" />
   <img src="https://streak-stats.demolab.com?user=dwilliams22&theme=react&hide_border=true&background=0d1117&ring=007acc&fire=e34c25&currStreakLabel=60dbfb" />
 </div>
 

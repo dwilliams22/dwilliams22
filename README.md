@@ -44,7 +44,7 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
 <table align="center">
   <tr>
     <td align="center">
-      <h3>Frontend Development</h3>
+      <h3>Frontend</h3>
     </td>
     <td align="center">
         <img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,html,css&theme=light" />
@@ -52,7 +52,7 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
   </tr>
   <tr>
     <td align="center">
-      <h3>Backend Frameworks</h3>
+      <h3>Backend</h3>
     </td>
     <td align="center">
         <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet&theme=light" />
@@ -79,7 +79,7 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
       <h3>Testing & Tools</h3>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=vitest,git,github,docker,sequelize,postman&theme=light" />
+        <img src="https://skillicons.dev/icons?i=vitest,git,github,docker,kubernetes,sequelize,postman&theme=light" />
     </td>
   </tr>
 </table>

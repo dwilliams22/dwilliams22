@@ -55,7 +55,7 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
       <h3>Backend</h3>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet&theme=light" />
+        <img src="https://skillicons.dev/icons?i=nextjs,elysia,nodejs,express,fastapi,dotnet&theme=light" />
     </td>
   </tr>
   <tr>

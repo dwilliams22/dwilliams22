@@ -113,14 +113,5 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
 
 <div display="inline" align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dwilliams22&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=fff" />
-  <img src="https://streak-stats.demolab.com?user=dwilliams22&theme=react&hide_border=true&background=0d1117&ring=007acc&fire=e34c25&currStreakLabel=60dbfb" />
+  <!-- <img src="https://streak-stats.demolab.com?user=dwilliams22&theme=react&hide_border=true&background=0d1117&ring=007acc&fire=e34c25&currStreakLabel=60dbfb" /> -->
 </div>
-
-<!-- <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dwilliams22&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwilliams22&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dwilliams22&theme=react&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</p> -->

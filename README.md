@@ -47,7 +47,7 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
       <h3>Frontend</h3>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,html,css&theme=light" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,html,css&theme=light" />
     </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ I enjoy transforming complex problems into intuitive digital experiences and wri
       <h3>Backend</h3>
     </td>
     <td align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,elysia,nodejs,express,fastapi,dotnet&theme=light" />
+        <img src="https://skillicons.dev/icons?i=elysia,nodejs,express,fastapi,dotnet&theme=light" />
     </td>
   </tr>
   <tr>
